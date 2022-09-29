@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/deepsalunkhe/static/css/main.6b265975.css",
-    "main.js": "/deepsalunkhe/static/js/main.1c44332a.js",
+    "main.js": "/deepsalunkhe/static/js/main.a095e5e9.js",
     "static/js/787.8bef72f2.chunk.js": "/deepsalunkhe/static/js/787.8bef72f2.chunk.js",
     "static/media/linkden.png": "/deepsalunkhe/static/media/linkden.9410174fd2b66e1df679.png",
     "static/media/Github.png": "/deepsalunkhe/static/media/Github.3ebeb5e4cb7253bc3d1b.png",
+    "static/media/enviro.png": "/deepsalunkhe/static/media/enviro.dedec19e1078a93b353c.png",
     "static/media/me.png": "/deepsalunkhe/static/media/me.8c18f713562d35924b27.png",
     "static/media/Codechef.png": "/deepsalunkhe/static/media/Codechef.34e23fd67808212748f8.png",
     "static/media/test.png": "/deepsalunkhe/static/media/test.88c826693843cb00e0de.png",
@@ -13,11 +14,11 @@
     "static/media/glasses.png": "/deepsalunkhe/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/deepsalunkhe/index.html",
     "main.6b265975.css.map": "/deepsalunkhe/static/css/main.6b265975.css.map",
-    "main.1c44332a.js.map": "/deepsalunkhe/static/js/main.1c44332a.js.map",
+    "main.a095e5e9.js.map": "/deepsalunkhe/static/js/main.a095e5e9.js.map",
     "787.8bef72f2.chunk.js.map": "/deepsalunkhe/static/js/787.8bef72f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b265975.css",
-    "static/js/main.1c44332a.js"
+    "static/js/main.a095e5e9.js"
   ]
 }
