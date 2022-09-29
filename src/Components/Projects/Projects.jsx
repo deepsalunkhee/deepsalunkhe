@@ -7,7 +7,7 @@ const Projects = () => {
         <div className="envd">
             
           
-            <iframe src="http://environmentaldamagecontrol.me/" title='Project' width={"100%"} height={"600px"} style={{border:"0.3rem solid orange",background:"white"} }  ></iframe>
+            <iframe src="http://environmentaldamagecontrol.me/" title='Project' width={"100%"} height={"600px"} style={{border:"0.3rem solid orange",background:"white"} }  >Environmental-Damage-control</iframe>
         </div>
       
     </div>
