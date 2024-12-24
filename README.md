@@ -1,3 +1,5 @@
+Note: One of the many portfolio website that I have built , while in learning phase now , I am going to ship a diff porfolio that I am planning to maintain for long time so I am archiving this repo
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
